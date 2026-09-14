@@ -10,3 +10,4 @@
 | Bitwarder       | free            |     | +    |     |        | +    | Password manager |
 | Google one      | AI plus student |     | +    |     |        |      | Backup           |
 | Flowsavvy       | free            | +   | +    |     |        |      | Tasks scheduling |
+test
