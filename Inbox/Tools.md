@@ -6,7 +6,7 @@
 | Google keep     |                 | +   | +    |     |        |      | Temporary notes  |
 | Google tasks    |                 | +   | +    |     |        |      | Tasks            |
 | Google calendar |                 | +   | +    |     |        |      | Events           |
-| Obsidian        | 5$              |     | +    |     |        |      | Knowledge base   |
+| Obsidian        | 3$ (discount)   |     | +    |     |        |      | Knowledge base   |
 | Bitwarder       | free            |     | +    |     |        | +    | Password manager |
 | Google one      | AI plus student |     | +    |     |        |      | Backup           |
 | Flowsavvy       | free            | +   | +    |     |        |      | Tasks scheduling |
