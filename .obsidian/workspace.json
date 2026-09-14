@@ -6,6 +6,7 @@
       {
         "id": "90f86fdb40fb6c40",
         "type": "tabs",
+        "dimension": 40.04297994269341,
         "children": [
           {
             "id": "7e67e99c532fd336",
@@ -19,6 +20,48 @@
               },
               "icon": "lucide-file",
               "title": "Obsidian start"
+            }
+          }
+        ]
+      },
+      {
+        "id": "90bdc092b8d41410",
+        "type": "tabs",
+        "dimension": 59.957020057306586,
+        "children": [
+          {
+            "id": "99f0341827426e8e",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "z4AbijUCoKU",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=z4AbijUCoKU"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Give Me 15 Minutes. I'll Teach You  80% of Obsidian"
             }
           }
         ]
@@ -83,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a9cf4dde8c9517fd",
@@ -193,8 +237,8 @@
   },
   "active": "7e67e99c532fd336",
   "lastOpenFiles": [
-    "Inbox/Tools.md",
     "Learning/Obsidian start.md",
+    "Inbox/Tools.md",
     "media-lib/Give Me 15 Minutes. I'll Teach You  80% of Obsidian.md",
     "media-lib",
     "README.md",
