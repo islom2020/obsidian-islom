@@ -12,8 +12,25 @@
 | Flowsavvy       | free            | +   | +    |     |        |      | Tasks scheduling |
 ## Macbook apps
 
-| App name | Used for  |
-| -------- | --------- |
-| Maccy    | Clipboard |
-|          |           |
+| App name    | Used for         |
+| ----------- | ---------------- |
+| Maccy       | Clipboard        |
+| WPS office  | Office           |
+| VLC         | Media player     |
+| Termiues    | Servers          |
+| Telegram    |                  |
+| Chrome      |                  |
+| Cleanshot X | screen recording |
+## Mobile apps
+
+| App name | Used for |
+| -------- | -------- |
+|          |          |
+
+
+## Chrome extensions
+
+| App name | Used for |
+| -------- | -------- |
+|          |          |
 
