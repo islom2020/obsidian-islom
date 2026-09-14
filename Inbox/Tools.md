@@ -10,8 +10,10 @@
 | Tool name       | Web | Both | mac | Mobile | Ext. | Comment          |
 | --------------- | --- | ---- | --- | ------ | ---- | ---------------- |
 | Maccy           |     |      | +   |        |      | Clipboard        |
-| Google keep     | +   |      |     |        |      | Temporary notes  |
-| Google tasks    |     |      |     |        |      |                  |
-| Google calendar |     |      |     |        |      |                  |
+| Google keep     | +   | +    |     |        |      | Temporary notes  |
+| Google tasks    |     | +    |     |        |      | Tasks            |
+| Google calendar |     | +    |     |        |      | Events           |
 | Obsidian        |     | +    |     |        |      | Knowledge base   |
 | Bitwarder       |     | +    |     |        | +    | Password manager |
+| Google one      |     | +    |     |        |      | Backup           |
+|                 |     |      |     |        |      |                  |
