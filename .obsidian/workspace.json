@@ -6,7 +6,7 @@
       {
         "id": "90f86fdb40fb6c40",
         "type": "tabs",
-        "dimension": 40.04297994269341,
+        "dimension": 37.82234957020057,
         "children": [
           {
             "id": "7e67e99c532fd336",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "90bdc092b8d41410",
+        "id": "ac9f1f1d03eba43b",
         "type": "tabs",
-        "dimension": 59.957020057306586,
+        "dimension": 62.17765042979943,
         "children": [
           {
-            "id": "99f0341827426e8e",
+            "id": "f32124d244d212f8",
             "type": "leaf",
             "state": {
               "type": "mx-url",
@@ -143,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Obsidian start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "7e67e99c532fd336",
+  "active": "f32124d244d212f8",
   "lastOpenFiles": [
     "Learning/Obsidian start.md",
     "Inbox/Tools.md",
