@@ -7,10 +7,11 @@
 
 
 
-| Tool name   | Web | Both | mac | Mobile | Ext. | Comment          |
-| ----------- | --- | ---- | --- | ------ | ---- | ---------------- |
-| Maccy       |     |      | +   |        |      | Clipboard        |
-| Google keep | +   |      |     |        |      | Temporary notes  |
-| Obsidian    |     | +    |     |        |      | Knowledge base   |
-| Bitwarder   |     | +    |     |        | +    | Password manager |
-|             |     |      |     |        |      |                  |
+| Tool name       | Web | Both | mac | Mobile | Ext. | Comment          |
+| --------------- | --- | ---- | --- | ------ | ---- | ---------------- |
+| Maccy           |     |      | +   |        |      | Clipboard        |
+| Google keep     | +   |      |     |        |      | Temporary notes  |
+| Google tasks    |     |      |     |        |      |                  |
+| Google calendar |     |      |     |        |      |                  |
+| Obsidian        |     | +    |     |        |      | Knowledge base   |
+| Bitwarder       |     | +    |     |        | +    | Password manager |
