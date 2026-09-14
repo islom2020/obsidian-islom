@@ -11,9 +11,9 @@
 | --------------- | --- | ---- | --- | ------ | ---- | ---------------- |
 | Maccy           |     |      | +   |        |      | Clipboard        |
 | Google keep     | +   | +    |     |        |      | Temporary notes  |
-| Google tasks    |     | +    |     |        |      | Tasks            |
-| Google calendar |     | +    |     |        |      | Events           |
+| Google tasks    | +   | +    |     |        |      | Tasks            |
+| Google calendar | +   | +    |     |        |      | Events           |
 | Obsidian        |     | +    |     |        |      | Knowledge base   |
 | Bitwarder       |     | +    |     |        | +    | Password manager |
 | Google one      |     | +    |     |        |      | Backup           |
-|                 |     |      |     |        |      |                  |
+| Flowsavvy       | +   | +    |     |        |      | Tasks scheduling |
