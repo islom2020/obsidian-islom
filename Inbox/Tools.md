@@ -1,6 +1,6 @@
 ## Tools list
 
-| Tool name       | Subs            | Web | Both | mac | Mobile | Ext. | Comment          |
+| Tool name       | Subs            | Web | Both | mac | Mobile | Ext. | Used for         |
 | --------------- | --------------- | --- | ---- | --- | ------ | ---- | ---------------- |
 | Maccy           |                 |     |      | +   |        |      | Clipboard        |
 | Google keep     |                 | +   | +    |     |        |      | Temporary notes  |
@@ -10,4 +10,10 @@
 | Bitwarder       | free            |     | +    |     |        | +    | Password manager |
 | Google one      | AI plus student |     | +    |     |        |      | Backup           |
 | Flowsavvy       | free            | +   | +    |     |        |      | Tasks scheduling |
-test
+## Macbook apps
+
+| App name | Used for  |
+| -------- | --------- |
+| Maccy    | Clipboard |
+|          |           |
+
