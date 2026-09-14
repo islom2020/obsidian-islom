@@ -185,7 +185,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false
     }
   },
   "active": "7e67e99c532fd336",
