@@ -1,10 +1,6 @@
 ---
 tags:
   - tool
-aliases:
-  - alias1
-cssclasses:
-  - nimabu
 ---
 ## Tools list
 
