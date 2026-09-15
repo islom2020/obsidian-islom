@@ -1,3 +1,11 @@
+---
+tags:
+  - tool
+aliases:
+  - alias1
+cssclasses:
+  - nimabu
+---
 ## Tools list
 
 | Tool name       | Subs            | Web | Both | mac | Mobile | Ext. | Used for         |

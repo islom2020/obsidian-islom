@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/File.md",
+                "file": "Inbox/Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File"
+              "title": "Tools"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/File.md",
+                "file": "Inbox/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,12 +171,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +192,11 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "75a316ebd922b4c3",
+  "active": "a8d1a151df0830bb",
   "lastOpenFiles": [
-    "Sources/Upsoft_kp-56 (1).pdf",
-    "Sources/File.md",
     "Learning/Obsidian start.md",
+    "Sources/File.md",
+    "Sources/Upsoft_kp-56 (1).pdf",
     "Sources",
     "Inbox/Tools.md",
     "Obsidian.md",
