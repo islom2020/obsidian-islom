@@ -6,7 +6,6 @@
       {
         "id": "90f86fdb40fb6c40",
         "type": "tabs",
-        "dimension": 37.82234957020057,
         "children": [
           {
             "id": "7e67e99c532fd336",
@@ -25,43 +24,17 @@
         ]
       },
       {
-        "id": "ac9f1f1d03eba43b",
+        "id": "002438fd914642a3",
         "type": "tabs",
-        "dimension": 62.17765042979943,
         "children": [
           {
-            "id": "f32124d244d212f8",
+            "id": "d9d9aa62613515c6",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "z4AbijUCoKU",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=z4AbijUCoKU"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Give Me 15 Minutes. I'll Teach You  80% of Obsidian"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -142,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning/Obsidian start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +207,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "f32124d244d212f8",
+  "active": "7e67e99c532fd336",
   "lastOpenFiles": [
     "Learning/Obsidian start.md",
     "Inbox/Tools.md",
