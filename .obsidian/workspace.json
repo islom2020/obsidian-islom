@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "90f86fdb40fb6c40",
+        "id": "002438fd914642a3",
         "type": "tabs",
-        "dimension": 75.0580945003873,
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "7e67e99c532fd336",
+            "id": "d9d9aa62613515c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "Obsidian start"
-            }
-          }
-        ]
-      },
-      {
-        "id": "002438fd914642a3",
-        "type": "tabs",
-        "dimension": 24.941905499612705,
-        "children": [
-          {
-            "id": "d9d9aa62613515c6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -209,11 +192,12 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "7e67e99c532fd336",
+  "active": "d9d9aa62613515c6",
   "lastOpenFiles": [
-    "Learning/Obsidian start 1.md",
-    "Learning/Obsidian start.md",
     "Inbox/Tools.md",
+    "Obsidian.md",
+    "Learning/Obsidian start.md",
+    "Learning/Obsidian start 1.md",
     "media-lib/Give Me 15 Minutes. I'll Teach You  80% of Obsidian.md",
     "media-lib",
     "README.md",
