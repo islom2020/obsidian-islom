@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a9cf4dde8c9517fd",
@@ -192,13 +193,14 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "a8d1a151df0830bb",
+  "active": "75a316ebd922b4c3",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Inbox/Tools.md",
     "Learning/Obsidian start.md",
     "Sources/File.md",
     "Sources/Upsoft_kp-56 (1).pdf",
     "Sources",
-    "Inbox/Tools.md",
     "Obsidian.md",
     "Learning/Obsidian start 1.md",
     "media-lib/Give Me 15 Minutes. I'll Teach You  80% of Obsidian.md",
