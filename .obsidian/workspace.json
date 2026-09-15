@@ -6,6 +6,7 @@
       {
         "id": "90f86fdb40fb6c40",
         "type": "tabs",
+        "dimension": 75.0580945003873,
         "children": [
           {
             "id": "7e67e99c532fd336",
@@ -26,6 +27,7 @@
       {
         "id": "002438fd914642a3",
         "type": "tabs",
+        "dimension": 24.941905499612705,
         "children": [
           {
             "id": "d9d9aa62613515c6",
@@ -209,6 +211,7 @@
   },
   "active": "7e67e99c532fd336",
   "lastOpenFiles": [
+    "Learning/Obsidian start 1.md",
     "Learning/Obsidian start.md",
     "Inbox/Tools.md",
     "media-lib/Give Me 15 Minutes. I'll Teach You  80% of Obsidian.md",
