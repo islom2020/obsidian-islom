@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Orginize my life.md",
+                "file": "01 Journal/2026-09-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orginize my life"
+              "title": "2026-09-16"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Orginize my life.md",
+                "file": "01 Journal/2026-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Orginize my life.md",
+                "file": "01 Journal/2026-09-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,28 +192,29 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "75a316ebd922b4c3",
+  "active": "134ad66ff156f09d",
   "lastOpenFiles": [
-    "00 Inbox/Tools.md",
+    "01 Journal/Untitled.md",
+    "01 Journal/2026-09-16.md",
+    "System/Templates/Daily note.md",
+    "System/Templates/Meeting.md",
+    "System/Templates/Lesson.md",
+    "System/Templates/Goal.md",
+    "System/Templates/Client.md",
     "00 Inbox/Orginize my life.md",
+    "00 Inbox/Tools.md",
     "00 Inbox/Obsidian start.md",
     "11 Topics/Delegation.md",
     "11 Topics/Family.md",
     "Home.md",
-    "01 Journal/2026-09-16.md",
     "System/Attachments",
-    "System/Templates/Lesson.md",
     "System/Templates/Weekly review.md",
     "System/Templates/Topic.md",
     "System/Templates/Project.md",
     "System/Templates/Source.md",
     "System/Templates/Person.md",
-    "System/Templates/Meeting.md",
     "System/Templates/Note.md",
-    "System/Templates/Goal.md",
     "System/Templates/Decision.md",
-    "System/Templates/Daily note.md",
-    "System/Templates/Client.md",
     "System/Templates",
     "33 Decisions/Who owns client onboarding.md",
     "21 Sources/High Output Management.md",
@@ -229,7 +230,6 @@
     "30 People",
     "21 Sources",
     "Untitled.md",
-    "Topics/Health.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
