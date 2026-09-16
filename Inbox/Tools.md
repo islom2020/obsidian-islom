@@ -56,6 +56,12 @@ tags:
 | Korzinka Go |      |          |
 | DMED        |      |          |
 | YooMoney    |      |          |
+| Substack    |      |          |
+| ClickUp     |      |          |
+| MyID uzb    |      |          |
+| Quora       |      |          |
+| Reddit      |      |          |
+| Hilol eBook |      |          |
 |             |      |          |
 
 
