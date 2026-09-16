@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Orginize my life.md",
+                "file": "00 Inbox/My accounts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orginize my life"
+              "title": "My accounts"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Orginize my life.md",
+                "file": "00 Inbox/My accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Orginize my life.md",
+                "file": "00 Inbox/My accounts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,16 +194,17 @@
   },
   "active": "75a316ebd922b4c3",
   "lastOpenFiles": [
-    "00 Inbox/Obsidian start.md",
-    "01 Journal/Salom.md",
     "01 Journal/2026-09-16.md",
+    "00 Inbox/My accounts.md",
+    "01 Journal/Salom.md",
+    "00 Inbox/Orginize my life.md",
+    "00 Inbox/Obsidian start.md",
     "System/Templates/Daily note.md",
     "System/Templates/Decision.md",
     "System/Templates/Client.md",
     "System/Templates/Meeting.md",
     "System/Templates/Lesson.md",
     "System/Templates/Goal.md",
-    "00 Inbox/Orginize my life.md",
     "00 Inbox/Tools.md",
     "11 Topics/Delegation.md",
     "11 Topics/Family.md",
@@ -229,7 +230,6 @@
     "31 Clients",
     "30 People",
     "21 Sources",
-    "Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
