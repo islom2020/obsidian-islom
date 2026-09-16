@@ -6,30 +6,28 @@ tags:
 
 | Tool name       | Subs            | Web | Both | mac | Mobile | Ext. | Used for         |
 | --------------- | --------------- | --- | ---- | --- | ------ | ---- | ---------------- |
-| Maccy           |                 |     |      | +   |        |      | Clipboard        |
 | Google keep     |                 | +   | +    |     |        |      | Temporary notes  |
 | Google tasks    |                 | +   | +    |     |        |      | Tasks            |
 | Google calendar |                 | +   | +    |     |        |      | Events           |
 | Obsidian        | 3$ (discount)   |     | +    |     |        |      | Knowledge base   |
 | Bitwarder       | free            |     | +    |     |        | +    | Password manager |
-| Google one      | AI plus student |     | +    |     |        |      | Backup           |
+| Google one (d)  | AI plus student |     | +    |     |        |      | Backup           |
 | Flowsavvy       | free            | +   | +    |     |        |      | Tasks scheduling |
-## Macbook apps
+| VLC             |                 |     | +    |     |        |      | Media player     |
+| WPS office      |                 |     | +    |     |        |      |                  |
+| Telegram        |                 |     | +    |     |        |      |                  |
+## Macbook only
 
-| App name    | Used for         |
-| ----------- | ---------------- |
-| Maccy       | Clipboard        |
-| WPS office  | Office           |
-| VLC         | Media player     |
-| Termiues    | Servers          |
-| Telegram    |                  |
-| Chrome      |                  |
-| Cleanshot X | screen recording |
-## Mobile apps
+| App name    | Subs | Used for         |
+| ----------- | ---- | ---------------- |
+| Maccy       |      | Clipboard        |
+| Termiues    |      | Servers          |
+| Cleanshot X |      | screen recording |
+## Mobile only
 
-| App name | Used for |
-| -------- | -------- |
-|          |          |
+| App name | Subs | Used for |
+| -------- | ---- | -------- |
+|          |      |          |
 
 
 ## Chrome extensions
@@ -37,7 +35,3 @@ tags:
 | App name | Used for |
 | -------- | -------- |
 |          |          |
-
-
-#tag2
-
