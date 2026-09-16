@@ -4,18 +4,19 @@ tags:
 ---
 ## Tools list
 
-| Tool name          | Subs            | Web | Both | mac | Mobile | Ext. | Used for         |
-| ------------------ | --------------- | --- | ---- | --- | ------ | ---- | ---------------- |
-| Google keep        |                 | +   | +    |     |        |      | Temporary notes  |
-| Google tasks       |                 | +   | +    |     |        |      | Tasks            |
-| Google calendar    |                 | +   | +    |     |        |      | Events           |
-| Obsidian           | 3$ (discount)   |     | +    |     |        |      | Knowledge base   |
-| Bitwarder          | free            |     | +    |     |        | +    | Password manager |
-| Google one (drive) | AI plus student |     | +    |     |        |      | Backup           |
-| Flowsavvy          | free            | +   | +    |     |        |      | Tasks scheduling |
-| VLC                |                 |     | +    |     |        |      | Media player     |
-| WPS office         |                 |     | +    |     |        |      |                  |
-| Telegram           |                 |     | +    |     |        |      |                  |
+| Tool name       | Subs            | Web | Both | mac | Mobile | Ext. | Used for         |
+| --------------- | --------------- | --- | ---- | --- | ------ | ---- | ---------------- |
+| Google keep     |                 | +   | +    |     |        |      | Temporary notes  |
+| Google tasks    |                 | +   | +    |     |        |      | Tasks            |
+| Google photos   |                 |     |      |     |        |      |                  |
+| Google calendar |                 | +   | +    |     |        |      | Events           |
+| Obsidian        | 3$ (discount)   |     | +    |     |        |      | Knowledge base   |
+| Bitwarder       | free            |     | +    |     |        | +    | Password manager |
+| Google drive    | AI plus student |     | +    |     |        |      | Backup           |
+| Flowsavvy       | free            | +   | +    |     |        |      | Tasks scheduling |
+| VLC             |                 |     | +    |     |        |      | Media player     |
+| WPS office      |                 |     | +    |     |        |      |                  |
+| Telegram        |                 |     | +    |     |        |      |                  |
 ## Macbook only
 
 | App name    | Subs | Used for         |
@@ -31,9 +32,10 @@ tags:
 | TBC         |      |          |
 | WB taxi     |      |          |
 | Yandex go   |      |          |
+| Yandex maps |      |          |
+| Fasten      |      |          |
 | Al Quran    |      |          |
 | Steam       |      |          |
-| Yandex maps |      |          |
 | Zoomrad     |      |          |
 | Click       |      |          |
 | Kinopoisk   |      |          |
@@ -43,7 +45,18 @@ tags:
 | Claude      |      |          |
 | MyGov       |      |          |
 | Unired      |      |          |
-| Sol         |      |          |
+| Soliq       |      |          |
+| ChatGPT     |      |          |
+| Sheets      |      |          |
+| Paynet      |      |          |
+| OneID       |      |          |
+| RizoGo      |      |          |
+| Translate   |      |          |
+| WhatsApp    |      |          |
+| Korzinka Go |      |          |
+| DMED        |      |          |
+| YooMoney    |      |          |
+|             |      |          |
 
 
 ## Chrome extensions
