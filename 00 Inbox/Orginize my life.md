@@ -1,0 +1,1 @@
+Telefon va macbookni almashtirish
