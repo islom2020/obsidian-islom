@@ -25,9 +25,25 @@ tags:
 | Cleanshot X |      | screen recording |
 ## Mobile only
 
-| App name | Subs | Used for |
-| -------- | ---- | -------- |
-|          |      |          |
+| App name    | Subs | Used for |
+| ----------- | ---- | -------- |
+| Infinbank   |      | Bank     |
+| TBC         |      |          |
+| WB taxi     |      |          |
+| Yandex go   |      |          |
+| Al Quran    |      |          |
+| Steam       |      |          |
+| Yandex maps |      |          |
+| Zoomrad     |      |          |
+| Click       |      |          |
+| Kinopoisk   |      |          |
+| TMCI LMS    |      |          |
+| DOMO        |      |          |
+| Uzum bank   |      |          |
+| Claude      |      |          |
+| MyGov       |      |          |
+| Unired      |      |          |
+| Sol         |      |          |
 
 
 ## Chrome extensions
