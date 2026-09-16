@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Tools.md",
+                "file": "Inbox/Obsidian start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools"
+              "title": "Obsidian start"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Tools.md",
+                "file": "Inbox/Obsidian start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Tools.md",
+                "file": "Inbox/Obsidian start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,29 +193,44 @@
   },
   "active": "134ad66ff156f09d",
   "lastOpenFiles": [
-    "README.md",
     "Inbox/Tools.md",
+    "Inbox/Obsidian start.md",
+    "Topics/Health.md",
+    "Topics/Money.md",
+    "Topics/Delegation.md",
+    "Topics/Family.md",
+    "System/Attachments",
+    "System/Templates/Weekly review.md",
+    "System/Templates/Topic.md",
+    "System/Templates/Source.md",
+    "System/Templates/Project.md",
+    "System/Templates/Person.md",
+    "System/Templates/Note.md",
+    "System/Templates/Meeting.md",
+    "System/Templates/Lesson.md",
+    "System/Templates/Goal.md",
+    "System/Templates/Decision.md",
+    "System/Templates/Daily note.md",
+    "System/Templates/Client.md",
+    "System/Templates",
+    "Sources/High Output Management.md",
+    "Lessons/Match my control to the person's experience.md",
+    "Journal/2026-09-16.md",
+    "Decisions/Who owns client onboarding.md",
+    "Topics",
+    "System",
+    "Sources",
+    "Projects",
+    "People",
+    "Notes",
+    "Meetings",
+    "Lessons",
+    "Home.md",
+    "README.md",
     "Untitled.md",
     "Obsidian.md",
-    "Learning/Obsidian start.md",
-    "Sources/File.md",
-    "Sources/Upsoft_kp-56 (1).pdf",
-    "Sources",
-    "Learning/Obsidian start 1.md",
-    "media-lib/Give Me 15 Minutes. I'll Teach You  80% of Obsidian.md",
-    "media-lib",
-    "Work/Untitled",
-    "Personal",
-    "Notes",
-    "Learning",
-    "Work",
-    "Inbox",
-    "Untitled.base",
-    "Welcome.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled 2.canvas",
-    "tizimhub.uz.md",
-    "create a link.md"
+    "Untitled 2.canvas"
   ]
 }

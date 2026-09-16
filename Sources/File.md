@@ -1,1 +1,0 @@
-[[Upsoft_kp-56 (1).pdf]] shu fayl 
