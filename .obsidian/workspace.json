@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Untitled.md",
+                "file": "00 Inbox/AI reglaments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "AI reglaments"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Untitled.md",
+                "file": "00 Inbox/AI reglaments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Untitled.md",
+                "file": "00 Inbox/AI reglaments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +195,7 @@
   "active": "75a316ebd922b4c3",
   "lastOpenFiles": [
     "00 Inbox/My accounts.md",
-    "00 Inbox/Untitled.md",
+    "00 Inbox/AI reglaments.md",
     "01 Journal/2026-09-16.md",
     "01 Journal/Salom.md",
     "00 Inbox/Orginize my life.md",
