@@ -17,6 +17,8 @@ tags:
 | VLC             |                 |     | +    |     |        |      | Media player     |
 | WPS office      |                 |     | +    |     |        |      |                  |
 | Telegram        |                 |     | +    |     |        |      |                  |
+| Claude          |                 |     | +    |     |        |      |                  |
+| ChatGPT         |                 |     | +    |     |        |      |                  |
 ## Macbook only
 
 | App name    | Subs | Used for         |
