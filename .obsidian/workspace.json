@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Backup/recovery",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "media-extended:Open media quick switcher": false
     }
   },
-  "active": "a8d1a151df0830bb",
+  "active": "134ad66ff156f09d",
   "lastOpenFiles": [
     "00 Inbox/AI reglaments.md",
     "00 Inbox/My accounts.md",

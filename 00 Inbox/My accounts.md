@@ -1,9 +1,13 @@
+---
+tags:
+  - recovery-codes
+---
 
 | Cloud  | email                          | password       |     |
 | ------ | ------------------------------ | -------------- | --- |
 | iCloud | islomjonanvarjonov@icloud.com  | Bekiy200213@   |     |
 | gmail  | islomjonanvarjonov@gmail.com   | islomjon200213 |     |
-| gmail2 | islomjonanvarjonov13@gmail.com |                |     |
+| gmail2 | islomjonanvarjonov13@gmail.com | Islomjon200213 |     |
 |        |                                |                |     |
 ### Backup/recovery codes
 
@@ -37,3 +41,20 @@ These are your Discord backup codes for account islomjonanvarjonov@gmail.com.  K
 * 3q6y-kbl3 
 * my9w-z4nj 
 ---
+## Github
+c1a6c-4da4e
+4ce8b-9bdab
+442c5-e3ed9
+f3d01-a27a2
+93125-e5b15
+8d527-e26de
+a5894-34d02
+cf151-b3c31
+c4a57-e434e
+57ffb-2044c
+43834-91ff8
+cceee-5e324
+c73ec-96c6f
+8b504-7397e
+18495-cd975
+31ab2-a4da1
