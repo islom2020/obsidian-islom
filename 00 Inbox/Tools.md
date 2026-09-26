@@ -72,3 +72,10 @@ tags:
 | App name | Used for |
 | -------- | -------- |
 |          |          |
+
+## Pro tools
+
+| App name   | Plan | Desc |
+| ---------- | ---- | ---- |
+| Perplexity | 20$  |      |
+|            |      |      |
