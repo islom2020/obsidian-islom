@@ -75,7 +75,8 @@ tags:
 
 ## Pro tools
 
-| App name   | Plan | Desc |
-| ---------- | ---- | ---- |
-| Perplexity | 20$  |      |
-|            |      |      |
+| App name   | Plan | Desc                  |
+| ---------- | ---- | --------------------- |
+| Perplexity | 20$  | AI search engine      |
+| Cursor     | Pro  | ai native code editor |
+|            |      |                       |
